@@ -7,8 +7,8 @@ Go to your Windows/system32 folder and copy the following file to your USB Drive
 Go to https://www.nirsoft.net/utils/web_browser_password.html to download WebPassView.exe and copy the file to your USB Drive.
 (NOTE: Windows might see this file as a virus (it is a false positive, and not a virus)
 
-So by now you should have 5 files on your USB drive.
-
+So by now you should have 5 files on your USB drive. It should look like this...
+https://imgur.com/DKkhg4S
 Safely unplug your USB drive, and test it on your machine.
 
 Plug it in, if it does not automatically run, click on launch.bat
