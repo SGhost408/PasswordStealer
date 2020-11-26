@@ -4,8 +4,7 @@ Instructions:
 
 Download files from Github and place them into your USB Drive.
 Go to your Windows/system32 folder and copy the following file to your USB Drive: wscript.exe
-Go to https://www.nirsoft.net/utils/web_browser_password.html to download WebPassView.exe and copy the file to your USB Drive.
-(NOTE: Windows might see this file as a virus (it is a false positive, and not a virus)
+Go to https://www.nirsoft.net/utils/web_browser_password.html to download WebPassView.exe and copy the file to your USB Drive. I have added a copy in this repo as well... (NOTE: Windows might see this file as a virus (it is a false positive, and not a virus)
 
 So by now you should have 5 files on your USB drive. It should look like this...
 https://imgur.com/DKkhg4S
